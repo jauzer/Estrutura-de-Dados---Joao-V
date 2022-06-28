@@ -10,6 +10,7 @@ public class Main
 		l.add("Guilherme");
 		
 		l.imprime();
+		System.out.print("\nTamanho da Lista: ");
 		l.size();
 		
 	}
